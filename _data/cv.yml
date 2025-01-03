@@ -4,94 +4,78 @@
     - name: Full Name
       value: Albert Einstein
     - name: Date of Birth
-      value: 14th March 1879
+      value: 8 June 2005
     - name: Languages
-      value: English, German
+      value: English, Spanish, Tamil
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelors
+      institution: Columbia University, New York, NY
+      year: 2023-2027
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Double major in Computer Science and Applied Mathematics
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+    - title: Research Assistant
+      institution: HazyResearch, Stanford AI Lab, Stanford University
+      year: July 2024-Present
+      description:  
+        - Building ML systems
+        - title: <a href="https://github.com/HazyResearch/ThunderKittens">ThunderKittens</a>':' GPU primitives for fast ML kernels
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Created tile support at all levels of GPU memory heirarchy for complex number computatiohn
+            - Created long-convolution FFT kernel
+
+    - title: Research Assistant
+      institution: Zuckerman Institute for Mind, Brain, and Behavior
+      year: Nov 2023-Present
       description:
-        - Description 1.
-        - Description 2.
+        - Meta-learning synaptic plasticity to model odor pathways in piriform cortex
+        - Previously':' Analyzing connectivity between mossy fiber (MF) and granule cell (GrC) layers in the cerebellum
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Assistant
+      institution: Autonomous Networks Research Group, University of Southern California
+      year: 2021-2023
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - First author of three research papers on the optimal partitioning, placement, and robust deployment of deep
+neural networks across clusters of low-resource edge devices
+        - Designed custom Kubernetes cluster with multi-node fault tolerance, tested on up to 50 nodes and devices
+w/ 128 to 512 MB RAM
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023-2027
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - <a href=https://urf.columbia.edu/urf/research/rabi>I.I. Rabi Scholar</a>
+    - year: 2022
       items:
-        - Max Planck Medal
+        - <a href="https://ieeexplore.ieee.org/abstract/document/9668515">Best Paper Award</a>, COMSNETS MINDS Workshop
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Building ML systems at the hardware layer to accelerate computation
+        - Running ML on edge systems. See <a href="/publications"></a>
+    - title: Neuroscience
       items:
-        - Description 1.
-        - Description 2.
+        - Building a mathematical understanding of the brain 
+        - Applying biological models of computation to machine learning applications
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - I'm also an avid classical guitarist, currently a member of the <a href="https://www.nyccgs.com/orchestra/spectra-album"> New York Classical Guitar Orchestra</a>
+    - In my spare time, I enjoy learning Sanskrit
+
