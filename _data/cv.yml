@@ -11,11 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelors
+    - title: BA
       institution: Columbia University, New York, NY
       year: 2023-2027
       description:
         - Double major in Computer Science and Applied Mathematics
+        - I.I. Rabi Scholar
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -46,10 +47,8 @@
       institution: Autonomous Networks Research Group, University of Southern California
       year: 2021-2023
       description:
-        - First author of three research papers on the optimal partitioning, placement, and robust deployment of deep
-neural networks across clusters of low-resource edge devices
-        - Designed custom Kubernetes cluster with multi-node fault tolerance, tested on up to 50 nodes and devices
-w/ 128 to 512 MB RAM
+        - First author of three research papers on the optimal partitioning, placement, and robust deployment of deep neural networks across clusters of low-resource edge devices
+        - Designed custom Kubernetes cluster with multi-node fault tolerance, tested on up to 50 nodes and devices w/ 128 to 512 MB RAM
 
 - title: Honors and Awards
   type: time_table
