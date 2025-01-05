@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm an undergraduate at Columbia University studying Computer Science and Applied Math. I'm passionate about Machine Learning, including building ML systems and the intersection of ML with neuroscience. I'm grateful to be supported by the [I.I. Rabi Scholarship](https://urf.columbia.edu/urf/research/rabi)
+Hi! I'm an undergraduate at Columbia University studying Computer Science and Applied Math. I'm passionate about Machine Learning, including building ML systems and the intersection of ML with neuroscience. I'm grateful to be supported by the [I.I. Rabi Scholarship](https://urf.columbia.edu/urf/research/rabi).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
