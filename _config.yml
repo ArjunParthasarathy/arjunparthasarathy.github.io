@@ -316,6 +316,7 @@ filtered_bibtex_keywords:
     altmetric,
     annotation,
     arxiv,
+    openreview,
     award,
     award_name,
     bibtex_show,
