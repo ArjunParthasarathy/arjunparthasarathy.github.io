@@ -66,7 +66,7 @@
     - title: Machine Learning
       items:
         - Building ML systems at the hardware layer to accelerate computation
-        - Running ML on edge systems. See <a href="/publications"></a>
+        - Running ML on edge systems. See <a href="/publications">publications</a>
     - title: Neuroscience
       items:
         - Building a mathematical understanding of the brain 
