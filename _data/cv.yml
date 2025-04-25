@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Arjun Parthasarathy
     - name: Date of Birth
       value: 8 June 2005
     - name: Languages
@@ -28,7 +28,7 @@
   contents:
     - title: Research Assistant
       institution: HazyResearch, Stanford AI Lab, Stanford University
-      year: July 2024-Present
+      year: July 2024-October 2024
       description:  
         - Building ML systems
         - title: <a href="https://github.com/HazyResearch/ThunderKittens">ThunderKittens</a>':' GPU primitives for fast ML kernels
